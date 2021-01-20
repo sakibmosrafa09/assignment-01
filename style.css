@@ -1,0 +1,79 @@
+.menue{
+    
+    display: flex;
+    justify-content: flex-end;
+}
+
+.menue a{
+    text-decoration: none;
+    padding: 20px;
+    color: black;
+    
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.half-width h1{
+    font-size: 40px;
+    font-family: 'Yusei Magic', sans-serif;
+
+}
+.name{
+    color: orange;
+}
+.pp{
+    font-size: 12px;
+}
+.link{
+    padding: 7px;
+    background-image: linear-gradient(rgba(253, 208, 82, 0.753), orange);
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+    border-radius: 5px;
+
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+#hw2{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.med-section{
+    height: 300px;
+    
+}
+#work{
+    text-transform: uppercase;
+    text-align: center;
+    
+}
+#work h1{
+    font-weight: 900;
+}
+#hi{
+    height: 490px;
+}
+.img1{
+    background-color: rgb(255, 255, 255);
+    height: 400px;
+    width: 300px;
+    
+}
+.img1 img{
+    width: 300px;
+}
+.foot2{
+    height: 1300px;
+    width: 100%;
+    
+}
